@@ -1,6 +1,6 @@
-# Project Name
+# Lego Identification AI 
 
- Add short description of project here > 
+This AI ultizes the imagenet network to identify legos and sort them based on predetermined classes. 
 
 ![add image descrition here](direct image link here)
 
