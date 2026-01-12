@@ -45,4 +45,4 @@ The program is based off the Imagenet program from Jetson Inference Library on t
 ## Resources
 [Dataset](https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition) <br>
 [Jetson Inference Github](https://github.com/dusty-nv/jetson-inference) <br>
-[View a video explanation here](video link)
+[View a video explanation here](https://youtu.be/NrREiGNongw)
