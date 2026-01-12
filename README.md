@@ -36,7 +36,9 @@ The program is based off the Imagenet program from Jetson Inference Library on t
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
+1. Download Jetson Inference Libraries
+2. Download respository files
+3. cd to respository directory (called Lego-ID-AI)
+4. run command: python3 lego.py <inputimage> <outputimage.jpg>
 
 [View a video explanation here](video link)
