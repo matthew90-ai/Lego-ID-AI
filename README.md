@@ -40,6 +40,7 @@ The program is based off the Imagenet program from Jetson Inference Library on t
 2. Download respository files
 3. cd to respository directory (called Lego-ID-AI)
 4. run command: `python3 lego.py <inputimage> <outputimage.jpg>`
+5. outputs predicted class and supplies link to purchase the identified lego online.
 
 ## Resources
 [Dataset](https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition) <br>
