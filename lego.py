@@ -85,7 +85,72 @@ while True:
         
         if classLabel == "Brick_1x1":
             print("This is a 1x1 Lego Brick, you can find this through Bricklink on this url: https://www.bricklink.com/v2/search.page?q=1x1#T=A ")
-                         
+       
+        if classLabel == "Brick_1x2":
+            print("This is a 1x2 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x2#T=A ")
+        
+        if classLabel == "Brick_1x3":
+            print("This is a 1x3 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x3%20brick#T=A ")                        
+        
+        if classLabel == "Brick_1x4":
+            print("This is a 1x4 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x4%20brick#T=A ")   
+        
+        if classLabel == "Brick_2x2":
+            print("This is a 2x2 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x2%20brick#T=A ")       
+       
+        if classLabel == "Brick_2x2_L":
+            print("This is a 2x2 L Shaped Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x2%20Brick%20Corner#T=A ")   
+        
+        if classLabel == "Brick_2x2_Slope":
+            print("This is a 2x2 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x2%20Brick%20Slope#T=A ")   
+        
+        if classLabel == "Brick_2x3":
+            print("This is a 2x3 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x3%20Brick#T=A")   
+
+        if classLabel == "Brick_2x4":
+            print("This is a 2x4 Lego Brick, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x4#T=A ")   
+
+        if classLabel == "Plate_1x1":
+            print("This is a 1x1 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x1%20Plate#T=A ")   
+
+        if classLabel == "Plate_1x1_Round":
+            print("This is a 1x1 Round Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x1%20Round#T=A")   
+
+        if classLabel == "Plate_1x1_Slope":
+            print("This is a 1x1 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x1%20Slope#T=A ")   
+   
+        if classLabel == "Plate_1x2":
+            print("This is a 1x2 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x2%20Plate#T=A ")   
+   
+        if classLabel == "Plate_1x2_Grill":
+            print("This is a 1x2 Lego Grill Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/catalog/catalogitem.page?P=2412b&name=Tile,%20Modified%201%20x%202%20Grille%20with%20Bottom%20Groove&category=%5BTile,%20Modified%5D#T=C ")   
+   
+        if classLabel == "Plate_1x3":
+            print("This is a 1x3 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x3%20Plate#T=A ")   
+
+        if classLabel == "Plate_1x4":
+            print("This is a 1x4 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x4%20Plate#T=A ")   
+
+        if classLabel == "Plate_2x2":
+            print("This is a 2x2 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x2%20Plate#T=A ")   
+        
+        if classLabel == "Plate_2x2_L":
+            print("This is a 2x2 L Shaped Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x2%20Corner%20Plate%20Plate#T=A ")   
+        
+        if classLabel == "Plate_2x3":
+            print("This is a 2x3 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x3%20Plate#T=A ")   
+        
+        if classLabel == "Plate_2x4":
+            print("This is a 2x4 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=2x4%20Plate#T=A ")   
+   
+   
+   
+   
+   
+   
+   
+   
+   
     # render the image
     output.Render(img)
 
