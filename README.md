@@ -39,6 +39,9 @@ The program is based off the Imagenet program from Jetson Inference Library on t
 1. Download Jetson Inference Libraries
 2. Download respository files
 3. cd to respository directory (called Lego-ID-AI)
-4. run command: python3 lego.py <inputimage> <outputimage.jpg>
+4. run command: `python3 lego.py <inputimage> <outputimage.jpg>`
 
+## Resources
+[Dataset](https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition) <br>
+[Jetson Inference Github](https://github.com/dusty-nv/jetson-inference) <br>
 [View a video explanation here](video link)
