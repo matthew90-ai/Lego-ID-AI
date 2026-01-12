@@ -7,7 +7,7 @@ This AI utilizes the imagenet network to identify legos and sort them based on p
 ## The Algorithm
 
 The dataset I used to retrain the model can be found at the bottom of the page. 
-I retrained the resnet18 network to identify the types of lego based on the 20 classes: &nbsp;  Brick_1x1  Brick_1x2  Brick_1x3  Brick_1x4    Brick_2x2  Brick_2x2_L  Brick_2x2_Slope  Brick_2x3  Brick_2x4  Plate_1x1  Plate_1x1_Round  Plate_1x1_Slope  Plate_1x2   Plate_1x2_Grill  Plate_1x3  Plate_1x4  Plate_2x2  Plate_2x2_L  Plate_2x3  Plate_2x4
+I retrained the resnet18 network to identify the types of lego based on the 20 classes: <br>  Brick_1x1  Brick_1x2  Brick_1x3  Brick_1x4    Brick_2x2  Brick_2x2_L  Brick_2x2_Slope  Brick_2x3  Brick_2x4  Plate_1x1  Plate_1x1_Round  Plate_1x1_Slope  Plate_1x2   Plate_1x2_Grill  Plate_1x3  Plate_1x4  Plate_2x2  Plate_2x2_L  Plate_2x3  Plate_2x4
 
 
 The Lego AI program analyzes the given image with the retrained model and outputs where you can find the brick online through 3rd party retailers. 
