@@ -2,7 +2,7 @@
 
 This AI utilizes the imagenet network to identify legos and sort them based on predetermined classes. 
 
-![add image descrition here](direct image link here)
+![add image descrition here](https://github.com/matthew90-ai/Lego-ID-AI/blob/master/outputimage.jpg)
 
 ## The Algorithm
 
