@@ -10,7 +10,7 @@ The dataset I used to retrain the model can be found at the bottom of the page.
 I retrained the resnet18 network to identify the types of lego based on the 20 classes: <br>  
 <br>
 Brick_1x1 <br>
-Brick_1x2 <br>  
+Brick_1x2 <br>
 Brick_1x3 <br>
 Brick_1x4 <br>   
 Brick_2x2 <br> 
