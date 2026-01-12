@@ -12,7 +12,7 @@ I retrained the resnet18 network to identify the types of lego based on the 20 c
 Brick_1x1 <br>
 Brick_1x2 <br>
 Brick_1x3 <br>
-Brick_1x4 <br>   
+Brick_1x4 <br>
 Brick_2x2 <br> 
 Brick_2x2_L <br> 
 Brick_2x2_Slope <br>
