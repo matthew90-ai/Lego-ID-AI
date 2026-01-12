@@ -8,8 +8,8 @@ This AI utilizes the imagenet network to identify legos and sort them based on p
 
 The dataset I used to retrain the model can be found at the bottom of the page. 
 I retrained the resnet18 network to identify the types of lego based on the 20 classes:
-Brick_1x1
-Brick_1x2
+  Brick_1x1
+  Brick_1x2
 Brick_1x3
 Brick_1x4
 Brick_2x2
