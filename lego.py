@@ -129,7 +129,7 @@ while True:
             print("This is a 1x3 Lego Plate, you can find this through Bricklink on this url: https://www.bricklink.com/v2/search.page?q=1x3%20Plate#T=A ")   
 
         if classLabel == "Plate_1x4":
-            print("This is a 1x4 Lego Plate, you can find this through Bricklink on this url:https://www.bricklink.com/v2/search.page?q=1x4%20Plate#T=A ")   
+            print("This is a 1x4 Lego Plate, you can find this through Bricklink on this url: https://www.bricklink.com/v2/search.page?q=1x4%20Plate#T=A ")   
 
         if classLabel == "Plate_2x2":
             print("This is a 2x2 Lego Plate, you can find this through Bricklink on this url: https://www.bricklink.com/v2/search.page?q=2x2%20Plate#T=A ")   
